@@ -1,0 +1,25 @@
+.parent {
+  align-items: center;
+  text-align: center;
+  margin-top: 2%;
+}
+
+.p-child {
+  display: flex;
+  flex-direction: column;
+}
+img {
+  height: 10%;
+  width: 10%;
+  margin-left: 45%;
+}
+
+h1 {
+  font-weight: 700;
+}
+.form {
+  margin-top: 50px;
+}
+.error {
+  color: red;
+}
